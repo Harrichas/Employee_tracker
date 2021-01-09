@@ -25,3 +25,4 @@ CREATE TABLE employee (
     FOREIGN KEY (role_id),
     FOREIGN KEY (manager_id)
 );
+
